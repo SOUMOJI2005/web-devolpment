@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.backgroundimage{
+    height:100vh;
+    width: 100%;
+    
+}
+.adventure{
+    position:absolute;
+    height: 50px;
+    width: 100px;
+    align-items: start;
+}
+.font_search_bar_1{
+    position: fixed;
+    display: flex;
+    gap: 50px;
+   background-color:
+   color: rgb(96, 96, 216);
+
+}
+.font_search_bar_1:hover{
+color: orangered;
+}
+.DIS{
+    align-items: center;
+    color:brown;
+}
+.new{
+    color: rgb(0, 255, 106);
+    align-items: center;
+    justify-items: center;
+    text-align: center;
+}
+.lorem{
+    color: rgb(255, 0, 200);
+    align-items: center;
+    justify-items: center;
+    text-align: center;
+}
+.middle{
+    
+    margin: top -100px; 
+}
+
